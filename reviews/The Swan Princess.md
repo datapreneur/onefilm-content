@@ -1,7 +1,7 @@
 
 title: انیمیشن‌های بی‌محتوای باربی  
-title_en: The Swan Princess: A Royal Wedding  
-title_fa: پرنسس قو: ازدواج سلطنتی  
+title_en: 'The Swan Princess: A Royal Wedding'
+title_fa: 'پرنسس قو: ازدواج سلطنتی'
 stars: 0
 author: صادقه سلطانی
 date: 1 september 2020

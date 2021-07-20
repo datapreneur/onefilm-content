@@ -1,7 +1,7 @@
 
 title: جشنواره‌ی موسیقی و خنده 
-title_en: Eurovision Song Contest: The Story of Fire Saga 
-title_fa: مسابقه‌ی آواز یوروویژن: داستان حماسه آتش 
+title_en: 'Eurovision Song Contest: The Story of Fire Saga'
+title_fa: 'مسابقه‌ی آواز یوروویژن: داستان حماسه آتش'
 stars: 1
 author: اکرم نصرتی
 date: 3 september 2020

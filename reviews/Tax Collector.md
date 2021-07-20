@@ -1,5 +1,5 @@
 
-title:اکشنِ بی‌‌طعم  
+title: اکشنِ بی‌‌طعم  
 title_en: Tax Collector  
 title_fa: مالیات‌جمع‌کن 
 stars: 0

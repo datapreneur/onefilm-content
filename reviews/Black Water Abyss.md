@@ -1,6 +1,6 @@
 
 title: همان همیشگی
-title_en: Black Water: Abyss  
+title_en: 'Black Water: Abyss'
 title_fa: مرداب سیاه؛ گودال
 stars: 0
 author: مصطفی ملکی

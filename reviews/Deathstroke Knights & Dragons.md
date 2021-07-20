@@ -1,7 +1,7 @@
 
 title: مزدور مهربان
 title_en: Deathstroke Knights & Dragons 
-title_fa: دث‌استروک: شوالیه‌ها و اژدهاها
+title_fa: 'دث‌استروک: شوالیه‌ها و اژدهاها'
 stars: 0.5
 author: مصطفی ملکی
 date: 13 August 2020

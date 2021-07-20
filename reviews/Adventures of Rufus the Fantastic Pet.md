@@ -1,7 +1,7 @@
 
 title: ناشیانه در ماجراجویی  
-title_en: Adventures of Rufus: the Fantastic Pet  
-title_fa: ماجراجویی‌های روفوس: حیوان‌خانگی شگفت‌انگیز 
+title_en: 'Adventures of Rufus: the Fantastic Pet'
+title_fa: 'ماجراجویی‌های روفوس: حیوان‌خانگی شگفت‌انگیز' 
 stars: 0
 author: صادقه سلطانی
 date: 27 August 2020
