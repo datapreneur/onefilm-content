@@ -29,7 +29,7 @@ where:
   country:
     - لهستان
 who:
-  director:	یان کومسا 
+  director: یان کومسا 
 
 which:
   genre:

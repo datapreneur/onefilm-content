@@ -1,7 +1,7 @@
 
 title: سرازیری سندیکا  
-title_en: Altered and Carbon: Resleeved   
-title_fa: کربن جهش‌یافته: انتقال روح  
+title_en: 'Altered and Carbon: Resleeved'
+title_fa: 'کربن جهش‌یافته: انتقال روح'
 stars: 1.5 
 author: صادقه سلطانی
 date: 18 july 2020
