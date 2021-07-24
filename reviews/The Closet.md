@@ -29,7 +29,7 @@ where:
   country:
     - کره‌جنوبی
 who:
-  director:کوانگ بین کیم
+  director: کوانگ بین کیم
 
 which:
   genre:

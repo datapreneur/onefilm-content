@@ -26,11 +26,11 @@ where:
   country:
     - آمریکا
 who:
-  director:مرلند هوکسا
+  director: مرلند هوکسا
 
 which:
   genre:
-    -  درام
+    - درام
   language: انگلیسی 
 
 ---
