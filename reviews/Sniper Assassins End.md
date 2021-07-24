@@ -1,6 +1,6 @@
 
 title: اکشنی ملایم اما سرگرم‌کننده 
-title_en: Sniper: Assassin's End
+title_en: 'Sniper: Assassin's End'
 title_fa: 'تک‌تیرانداز: نهایت آدمکش'
 stars: 0.5
 author: اکرم نصرتی

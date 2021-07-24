@@ -3,7 +3,7 @@ title: نامی دهان‌پر‌کن، اما ...
 title_en: 'The Secret: Dare to Dream'
 title_fa: شهامت رویاپردازی را داشته باش 
 stars: 0
-author:مصطفی ملکی
+author: مصطفی ملکی
 date: 17 september 2020
 
 duration: 1:47
