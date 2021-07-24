@@ -1,7 +1,7 @@
 
 title: ما همه برگزیده‌ایم 
-title_en: Phineas and Ferb: Candace Against the Universe  
-title_fa: فینیاس و فرب: کندیس در مقابل یونورس 
+title_en: 'Phineas and Ferb: Candace Against the Universe'
+title_fa: 'فینیاس و فرب: کندیس در مقابل یونورس'
 stars: 3
 author: صادقه سلطانی
 date: 22 september 2020
@@ -45,8 +45,8 @@ which:
     - خانوادگی
     - فانتزی
     - موزیکال
-    -علمی-تخیلی
-    -هیجان‌انگیز
+    - علمی-تخیلی
+    - هیجان‌انگیز
   language:
     - انگلیسی
    

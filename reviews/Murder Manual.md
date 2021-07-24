@@ -3,7 +3,7 @@ title: گام‌هایی کوچک و سطحی برای کشتن
 title_en: Murder Manual  
 title_fa: راهنمای قتل 
 stars: 0
-author:اکرم نصرتی
+author: اکرم نصرتی
 date: 16 september 2020
 
 duration: 1:31

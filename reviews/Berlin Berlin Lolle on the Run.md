@@ -1,7 +1,7 @@
 
 title: رویاهای فانتزی  
 title_en: Berlin, Berlin Lolle on the Run
-title_fa: برلین، برلین: لولا در فرار 
+title_fa: 'برلین، برلین: لولا در فرار'
 stars: 1.5 
 author: صادقه سلطانی
 date: 25 september 2020

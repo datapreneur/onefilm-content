@@ -1,7 +1,7 @@
 
 title: اکشنی ملایم اما سرگرم‌کننده 
-title_en: Sniper: Assassin's End   
-title_fa: تک‌تیرانداز: نهایت آدمکش 
+title_en: Sniper: Assassin's End
+title_fa: 'تک‌تیرانداز: نهایت آدمکش'
 stars: 0.5
 author: اکرم نصرتی
 date: 24 september 2020

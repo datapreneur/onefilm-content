@@ -1,7 +1,7 @@
 
 title: نوجوان‌هایی که روح خود را معامله کردند  
-title_en: The Babysitter: Killer Queen  
-title_fa: پرستار بچه: ملکه‌ی قاتل  
+title_en: 'The Babysitter: Killer Queen'
+title_fa: 'پرستار بچه: ملکه‌ی قاتل'
 stars: 0.5
 author: مصطفی ملکی
 date: 19 september 2020

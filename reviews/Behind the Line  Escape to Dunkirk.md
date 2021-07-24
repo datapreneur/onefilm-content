@@ -1,7 +1,7 @@
 
 title: چیزی که فیلم نبود 
-title_en: Behind the Line: Escape to Dunkirk
-title_fa: پشت خط: فرار به‌سوی دانکرک 
+title_en: 'Behind the Line: Escape to Dunkirk'
+title_fa: 'پشت خط: فرار به‌سوی دانکرک'
 stars: 0
 author: مصطفی ملکی
 date: 28 september 2020

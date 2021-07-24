@@ -1,7 +1,7 @@
 
 title: رنگارنگی خشن 
-title_en: Harley Quinn: Birds of Prey   
-title_fa: هارلی کویین: پرندگان شکاری 
+title_en: 'Harley Quinn: Birds of Prey'
+title_fa: 'هارلی کویین: پرندگان شکاری'
 stars: 2
 author: صادقه سلطانی
 date: 11 september 2020

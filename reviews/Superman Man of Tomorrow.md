@@ -1,7 +1,7 @@
 
 title: سوپرمن، مردی تکراری  
 title_en: Superman Man of Tomorrow
-title_fa: سوپرمن: مردِ فردا
+title_fa: 'سوپرمن: مردِ فردا'
 stars: 0.5
 author: صادقه سلطانی
 date: 26 september 2020

@@ -35,7 +35,7 @@ which:
   genre:
     - جنایی
     - هیجان‌انگیز
-  language:انگلیسی
+  language: انگلیسی
     
 ---
 

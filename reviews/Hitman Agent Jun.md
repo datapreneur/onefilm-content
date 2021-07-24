@@ -1,7 +1,7 @@
 
 title: وقتی آینده ناامیدت می‌کند  
 title_en: Hitman Agent Jun
-title_fa: هیتمن: مأمور جون  
+title_fa: 'هیتمن: مأمور جون'
 stars: 1
 author: صادقه سلطانی
 date: 15 september 2020 
