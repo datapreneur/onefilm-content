@@ -1,5 +1,5 @@
 
-title:یک کمدی ساده
+title: یک کمدی ساده
 title_en: War with Grandpa
 title_fa: جنگ با پدربزرگ
 stars: 1

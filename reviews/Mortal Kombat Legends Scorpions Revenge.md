@@ -1,7 +1,7 @@
 
 title: تا آخر این راه مبارزه می‌کنم 
-title_en: Mortal Kombat: Legends Scorpions Revenge   
-title_fa: مورتال کامبت، انتقام اسکورپین  
+title_en: 'Mortal Kombat: Legends Scorpions Revenge'
+title_fa: مورتال کامبت، انتقام اسکورپین
 stars: 2 
 author: صادقه سلطانی
 date: 17 july 2020

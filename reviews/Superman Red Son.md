@@ -1,7 +1,7 @@
 
 title: داستانی جدید از سوپرمن
-title_en: Superman: Red Son 
-title_fa: سوپرمن: فرزند سرخ 
+title_en: 'Superman: Red Son'
+title_fa: 'سوپرمن: فرزند سرخ'
 stars: 1.5
 author: صادقه سلطانی
 date: 12 August 2020

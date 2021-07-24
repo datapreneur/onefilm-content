@@ -1,7 +1,7 @@
 
 title: هر ذره‌ی این زمین اهمیت داره 
-title_en: Here We Are: Notes  For Living on Planet Earth 
-title_fa: ما اینجاییم: یادداشت‌هایی برای زندگی روی سیاره‌ی زمین 
+title_en: 'Here We Are: Notes  For Living on Planet Earth'
+title_fa: 'ما اینجاییم: یادداشت‌هایی برای زندگی روی سیاره‌ی زمین'
 stars: 3.5
 author: صادقه سلطانی
 date: 27 july 2020
@@ -24,7 +24,7 @@ when:
 
 where:
   country:
-    - آمریکا
+  - آمریکا
 who:
   director: 
   - فیلیپ هانت

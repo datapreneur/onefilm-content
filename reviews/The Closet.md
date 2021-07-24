@@ -1,7 +1,7 @@
 
 title: تلنگری به والدین در قاب وحشت 
 title_en: The Closet  
-title_fa:کمد  
+title_fa: کمد  
 stars: 1
 author: اکرم نصرتی 
 date: 1 september 2020

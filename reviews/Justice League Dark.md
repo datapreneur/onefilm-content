@@ -1,7 +1,7 @@
 
 title: هوشیاری در تاریکی
-title_en: Justice League Dark: Apokolips War  
-title_fa: لیگ عدالت تاریکی: جنگ آپوکالیپس
+title_en: 'Justice League Dark: Apokolips War'
+title_fa: 'لیگ عدالت تاریکی: جنگ آپوکالیپس'
 stars: 2
 author: صادقه سلطانی
 date: 20 August 2020

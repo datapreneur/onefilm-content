@@ -1,7 +1,7 @@
 
 title: فریدا کاش نمی‌آمدی!  
-title_en: Frieda: Coming Home  
-title_fa: فریدا: به خانه می‌آید.  
+title_en: 'Frieda: Coming Home'
+title_fa: 'فریدا: به خانه می‌آید.'
 stars: 0
 author: اکرم نصرتی
 date: 12 september 2020

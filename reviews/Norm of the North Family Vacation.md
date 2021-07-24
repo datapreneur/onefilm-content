@@ -1,7 +1,7 @@
 
 title: نام‌های تکراری، ماجراهای تکراری
-title_en: Norm of the North: Family Vacation  
-title_fa: نُرم از قطب شمال: تعطیلات خانوادگی
+title_en: 'Norm of the North: Family Vacation'
+title_fa: 'نُرم از قطب شمال: تعطیلات خانوادگی'
 stars: 0.5
 author: صادقه سلطانی
 date: 25 july 2020
