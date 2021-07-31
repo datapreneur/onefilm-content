@@ -1,4 +1,3 @@
-
 title: مخمصه‌ای کلیشه‌ای
 title_en: The Doorman
 title_fa: دربان
@@ -17,7 +16,7 @@ keywords:
 tags:
   - اکشن
   - 2020
-  - هیجان‌انگیز    
+  - هیجان‌انگیز
 
 when:
   created: 2020

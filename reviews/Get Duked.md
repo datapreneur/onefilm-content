@@ -1,6 +1,6 @@
 
 title: کمدی سیاه برای تقابل دو نسل 
-title_en: !Get Duked   
+title_en: 'Get Duked!'
 title_fa: به فنا رفتیم 
 stars: 2.5
 author: مصطفی ملکی

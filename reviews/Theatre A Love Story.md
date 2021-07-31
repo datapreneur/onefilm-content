@@ -1,7 +1,7 @@
 
 title: تا کی دوام خواهند آورد؟
-title_en: Theatre: A Love Story  
-title_fa: تئاتر: یک داستان عاشقانه 
+title_en: 'Theatre: A Love Story  '
+title_fa: 'تئاتر: یک داستان عاشقانه'
 stars: 3
 author: صادقه سلطانی
 date: 2 October 2020

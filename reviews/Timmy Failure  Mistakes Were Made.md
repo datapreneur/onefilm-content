@@ -1,7 +1,7 @@
 
 title: کودکی همراه با تخیّل اغراق‌آمیز 
-title_en: Timmy Failure: Mistakes Were Made  
-title_fa: تیمی فیلیِر: اشتباهاتی رخ داد.
+title_en: 'Timmy Failure: Mistakes Were Made'
+title_fa: 'تیمی فیلیِر: اشتباهاتی رخ داد'
 stars: 2
 author: اکرم نصرتی
 date: 29 september 2020
