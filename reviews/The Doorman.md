@@ -25,7 +25,7 @@ where:
   country:
     - آمریکا 
 who:
-  director:ریوهی کیتامورا
+  director: ریوهی کیتامورا
 
 which:
   genre:

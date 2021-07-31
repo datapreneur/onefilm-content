@@ -1,6 +1,5 @@
-
 title: ابرقهرمانان تکراری این‌بار از نوع آلمانی
-title_en: 'Freaks: You're One of Us'
+title_en: 'Freaks: You\'re One of Us'
 title_fa: 'عجیب‌الخلقه‌ها: تو هم یکی از ما هستی'
 stars: 0/5
 author: صادقه سلطانی
